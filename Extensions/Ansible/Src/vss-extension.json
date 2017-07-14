@@ -3,7 +3,7 @@
   "id": "vss-services-ansible",
   "name": "Ansible",
   "publisher": "ms-devlabs",
-  "version": "0.0.1",
+  "version": "0.0.12",
   "public": false,
   "description": "Execution of ansible playbook via cli using remote machine over ssh, or via ansible tower using REST API",
   "_description.comment": "The below format to define extensions is currently in preview and may change in future.",
